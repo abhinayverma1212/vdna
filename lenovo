@@ -1,0 +1,10 @@
+1) head ref :  the reference to the most recent commit in the current branch
+2) base branch :the default branch in a repository is the base branch for new pull requests and code commits.
+By default, GitHub names the default branch main in any new repository. 
+You can change the default branch for an existing repository.
+3) commit/git hash : You'll see a list of all the commits in your repository, 
+along with their commit hashes, author information, and commit messages. 
+The commit hash is a long string of characters that uniquely identifies each commit. 
+You can copy and paste the commit hash when you need to reference a specific commit.
+4) git log : To checkout a previous commit, 
+you will use the Git checkout command followed by the commit hash you retrieved from your Git log.
